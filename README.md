@@ -1,4 +1,4 @@
-Linky
+<img width="1443" height="745" alt="image" src="https://github.com/user-attachments/assets/cf3125b1-bae0-4755-8e4e-deb77bcfac80" />Linky
 
  هو تطبيق مكتبي مخصص لطلاب فرع TIC، يهدف إلى تسهيل الدراسة اليومية من خلال جمع أهم الأدوات الجامعية في مكان واحد.  
 التطبيق يعمل بدون إنترنت، ويوفر تجربة بسيطة وسريعة وفعالة.
@@ -30,6 +30,9 @@ Features
 ---
 يعمل التطبيق على أجهزة Windows 64bit
 ---
+## قناة التطبيق
+لمتابعة آخر التحديثات والنسخ الجديدة:
+[اضغط هنا للانضمام للقناة](https://t.me/Linky_App)
 
 Technologies Used
 - C# / .NET  
